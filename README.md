@@ -1,4 +1,6 @@
-➡️ As a junior frontend developer, I have hands-on experience in HTML, CSS, JavaScript, Git, and React 🧑🏻‍💻, and I am continuously learning and improving my skills in web development technologies💻.
+➡️ Junior frontend developer
+
+I have hands-on experience in HTML, CSS, JavaScript, Git, and React 🧑🏻‍💻, and I am continuously learning and improving my skills in web development technologies💻.
 
 You can find me on :
 
