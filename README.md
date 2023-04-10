@@ -1,7 +1,11 @@
 ➡️ As a junior frontend developer, I have hands-on experience in HTML, CSS, JavaScript, Git, and React 🧑🏻‍💻, and I am continuously learning and improving my skills in web development technologies💻.
 
 You can find me on :
-https://www.linkedin.com/in/adrian-donate-96b993217?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKBn31cUVR42trzEwWkwk%2FQ%3D%3D
+
+<a href="https://www.linkedin.com/in/adrian-donate-96b993217/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a>
+
 
 <hr>
 
