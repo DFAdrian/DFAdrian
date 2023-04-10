@@ -33,6 +33,7 @@ Some of my Proyects:
  ✅ <a href="https://dfadrian.github.io/findCountries/">REST Countries API with color theme switcher - [Live-project]</a>
  
   -𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐬𝐞𝐝:
+  
   ↪HTML, CSS, JavaScript, DOM manipulation, Async/Await, Fetch API , Web Storage
   
   -𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:
