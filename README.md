@@ -17,29 +17,15 @@ Some of my Proyects:
 
  -𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐬𝐞𝐝:
  
- ↪HTML: For creating the structure and layout of the app.
- 
- ↪ CSS: For styling the app and making it visually appealing.
- 
- ↪JavaScript: For handling user input, updating the UI, and performing calculations.
- 
- ↪ DOM (Document Object Model): For manipulating the HTML elements and updating the UI dynamically.
- 
- ↪Web Storage (localStorage): For storing expense data locally in the browser for persistent access.
+ ↪HTML, CSS, JavaScript, DOM (Document Object Model), Web Storage (localStorage).
  
  -𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: 
- 
- ↪Track expenses and manage budget
  
  ↪Simple user interface for entering expenses and amounts
       
  ↪Real-time display of expenses in a list
-          
- ↪Automatic calculation of total expenses and remaining budget
-             
- ↪Utilizes Web Storage for local data storage
-               
-  ↪Allows access to expenses even after refreshing or closing the browser
+              
+ ↪Allows access to expenses even after refreshing or closing the browser
   
   
   <hr>
