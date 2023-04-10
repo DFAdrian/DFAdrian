@@ -1,4 +1,4 @@
-### Hi there 👋
+As a junior frontend developer, I have hands-on experience in HTML, CSS, JavaScript, Git, and React, and I am continuously learning and improving my skills in web development technologies.
 
 <!--
 **DFAdrian/DFAdrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
