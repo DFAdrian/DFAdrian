@@ -1,28 +1,9 @@
 ➡️ As a junior frontend developer, I have hands-on experience in HTML, CSS, JavaScript, Git, and React 🧑🏻‍💻, and I am continuously learning and improving my skills in web development technologies💻.
 
-<!--
-**DFAdrian/DFAdrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me on :
+https://www.linkedin.com/in/adrian-donate-96b993217?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKBn31cUVR42trzEwWkwk%2FQ%3D%3D
 
-Here are some ideas to get you started:
-
-const skills = {
-  frameworks: [
-    { skill: "Bootstrap", details: "Experienced in using Bootstrap for responsive and mobile-first web development" },
-    { skill: "React", details: "Basic understanding of React, building small components and managing state" }
-  ],
-  versionControl: [
-    { skill: "Git", details: "Proficient in using Git for version control and collaborative development" }
-  ],
-  languages: [
-    { skill: "HTML", details: "Solid understanding of HTML5 markup and semantics" },
-    { skill: "CSS", details: "Proficient in CSS, including layout, responsiveness, and animations" },
-    { skill: "JavaScript", details: "Strong grasp of JavaScript fundamentals, including DOM manipulation and implementation of data structures" }
-  ]
-};
-
--->
-
-![● algo js - Sin título (área de trabajo) - Visual Studio Code 4_9_2023 8_09_14 PM](https://user-images.githubusercontent.com/89099274/230803006-b4983d91-5d27-4ffe-8fca-6cba97c3976c.png)
+<hr>
 
 Some of my Proyects:
 
@@ -53,3 +34,6 @@ Some of my Proyects:
  ↪Utilizes Web Storage for local data storage
                
   ↪Allows access to expenses even after refreshing or closing the browser
+  
+  
+  <hr>
