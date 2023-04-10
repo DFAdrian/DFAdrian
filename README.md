@@ -1,4 +1,4 @@
-As a junior frontend developer, I have hands-on experience in HTML, CSS, JavaScript, Git, and React, and I am continuously learning and improving my skills in web development technologies.
+➡️ As a junior frontend developer, I have hands-on experience in HTML, CSS, JavaScript, Git, and React 🧑🏻‍💻, and I am continuously learning and improving my skills in web development technologies💻.
 
 <!--
 **DFAdrian/DFAdrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +24,16 @@ const skills = {
 
 ![● algo js - Sin título (área de trabajo) - Visual Studio Code 4_9_2023 8_09_14 PM](https://user-images.githubusercontent.com/89099274/230803006-b4983d91-5d27-4ffe-8fca-6cba97c3976c.png)
 
+Some of my Proyects:
+
+● Basic Budget App
+
+ -Technologies used:
+  HTML: For creating the structure and layout of the app
+  CSS: For styling the app and making it visually appealing
+  JavaScript: For handling user input, updating the UI, and performing calculations
+  DOM (Document Object Model): For manipulating the HTML elements and updating the UI dynamically
+  Web Storage (localStorage): For storing expense data locally in the browser for persistent access
+  
+ -Description: 
+    This web app allows users to track their expenses and manage their budget. It provides a simple user interface where users can enter their expenses and amounts,       which are then displayed in a list. The total expenses and remaining budget are calculated and updated in real-time. The app also utilizes Web Storage to store         expense data locally, allowing users to access their expenses even after refreshing or closing the browser.
