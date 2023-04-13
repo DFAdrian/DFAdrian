@@ -47,3 +47,7 @@ Some of my Proyects:
   ↪View country details by clicking on a card.
 
   ↪Customize dark mode preference, which is stored in session storage for subsequent visits.
+  
+  <hr>
+  
+  ✅ <a href='https://dfadrian.github.io/BudgetApp/'>Basic Music Player - [Live-project]</a> 
