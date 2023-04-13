@@ -50,4 +50,4 @@ Some of my Proyects:
   
   <hr>
   
-  ✅ <a href='https://dfadrian.github.io/BudgetApp/'>Basic Music Player - [Live-project]</a> 
+  ✅ <a href='https://dfadrian.github.io/music-player/'>Basic Music Player - [Live-project]</a> 
