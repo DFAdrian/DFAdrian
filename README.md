@@ -19,13 +19,6 @@ Some of my Proyects:
  
  ↪HTML, CSS, JavaScript, DOM (Document Object Model), Web Storage (localStorage).
  
- -𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: 
- 
- ↪Simple user interface for entering expenses and amounts
-      
- ↪Real-time display of expenses in a list
-              
- ↪Allows access to expenses even after refreshing or closing the browser
   
   
   <hr>
@@ -36,17 +29,6 @@ Some of my Proyects:
   
   ↪HTML, CSS, JavaScript, DOM manipulation, Async/Await, Fetch API , Web Storage
   
-  -𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:
-  
-  ↪Toggle dark mode by clicking on the 'check' element.
-  
-  ↪Filter cards by region using the 'select' element.
-
-  ↪Search for a country using the 'search-input' element.
-
-  ↪View country details by clicking on a card.
-
-  ↪Customize dark mode preference, which is stored in session storage for subsequent visits.
   
   <hr>
   
