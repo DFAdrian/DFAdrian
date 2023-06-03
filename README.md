@@ -33,3 +33,7 @@ Some of my Proyects:
   <hr>
   
   ✅ <a href='https://dfadrian.github.io/music-player/'>Basic Music Player - [Live-project]</a> 
+  
+   -𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐬𝐞𝐝:
+ 
+   ↪HTML, CSS, JavaScript, DOM (Document Object Model)
