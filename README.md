@@ -27,7 +27,7 @@ Some of my Proyects:
  
   -𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐬𝐞𝐝:
   
-  ↪HTML, CSS, JavaScript, DOM manipulation, Async/Await, Fetch API , Web Storage
+  ↪HTML, CSS, JavaScript, DOM manipulation, Async/Await, Fetch API , Web Storage.
   
   
   <hr>
@@ -36,4 +36,4 @@ Some of my Proyects:
   
    -𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐬𝐞𝐝:
  
-   ↪HTML, CSS, JavaScript, DOM (Document Object Model)
+   ↪HTML, CSS, JavaScript, DOM (Document Object Model).
