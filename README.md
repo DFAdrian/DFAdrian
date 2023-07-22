@@ -11,7 +11,7 @@ You can find me on :
 
 <hr>
 
-Some of my Proyects:
+Some of my Projects:
 
 ✅ <a href='https://dfadrian.github.io/BudgetApp/'>Basic Budget App - [Live-project]</a> 
 
