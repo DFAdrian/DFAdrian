@@ -1,6 +1,13 @@
-➡️ Junior frontend developer
+➡️ Aspiring Full-Stack Dev
 
-I have hands-on experience in HTML, CSS, JavaScript, Git, and React 🧑🏻‍💻, and I am continuously learning and improving my skills in web development technologies💻.
+Hey there! 👋
+
+Frontend enthusiast diving into full-stack. Passion for coding, aiming to go pro soon. Who knows?!
+
+Connect with me:
+- [LinkedIn](your-linkedin-url)
+- [Twitter](your-twitter-url)
+
 
 You can find me on :
 
