@@ -13,7 +13,7 @@ You can find me on :
 
 Some of my Projects:
 
-✅ <a href='https://dfadrian.github.io/BudgetApp/'>Basic Budget App - [Live-project]</a> 
+✅ <a href='https://dfadrian.github.io/Budget-App/'>Basic Budget App - [Live-project]</a> 
 
 ✅ <a href='https://github.com/DFAdrian/BudgetApp'>Basic Budget App - [Repository]</a> 
 
