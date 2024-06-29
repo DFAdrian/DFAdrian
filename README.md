@@ -15,11 +15,11 @@ Some of my Projects:
 
 ✅ <a href='https://dfadrian.github.io/Budget-App/'>Basic Budget App - [Live-project]</a> 
 
-✅ <a href='https://github.com/DFAdrian/BudgetApp'>Basic Budget App - [Repository]</a> 
+✅ <a href='https://github.com/DFAdrian/Budget-App'>Basic Budget App - [Repository]</a> 
 
  -𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐬𝐞𝐝:
  
- ↪HTML, CSS, JavaScript, DOM (Document Object Model), Web Storage (localStorage).
+ ↪HTML, CSS, JavaScript, DOM (Document Object Model), Web Storage (localStorage) and OOP (Object-Oriented Programming).
  
   
   
